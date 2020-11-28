@@ -1,1 +1,1 @@
-# hypothyroidism_prediction
+# Hypothyroid_prediction
